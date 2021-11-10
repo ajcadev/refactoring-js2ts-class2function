@@ -1,6 +1,6 @@
 {
   "foods": [
-    {
+		{
       "id": 1,
       "name": "Ao molho",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
@@ -24,5 +24,5 @@
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     }
-  ]
+	]
 }
